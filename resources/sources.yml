@@ -1,0 +1,98 @@
+klimaticky_plan:
+    type: Web
+    title: Klimatický plán hlavního města Prahy do roku 2030
+    author: Ing. Petr Hlubuček
+    url: 
+      value: https://www.praha.eu/file/3431952/Klimaticky_plan_hl._m._Prahy_2030.pdf
+      date: 2023-12-20
+    
+analyza_dopadu_planu:
+    type: Web
+    title: Analýza dopadů klimatické změny v Praze
+    author: Ústav výzkumu globální změny AV ČR
+    url: 
+      value: https://portalzp.praha.eu/public/fd/5b/38/2525956_814609_Adaptacni_strategie_HMP_analytcast_v0917.pdf
+      date: 2023-12-28
+    
+strategie_adaptace_na_zmenu:
+    type: Web
+    title: STRATEGIE ADAPTACE NA ZMĚNU KLIMATU V HLAVNÍM MĚSTĚ PRAZE
+    author: Mgr. Tereza Líbová, Ing. Kateřina Schön, Ing. Tereza Zubrová
+    url: 
+      value: https://portalzp.praha.eu/file/3159075/Implementacni_plan_2020_24_Strategie_adaptace_na_zmenu_klimatu_vHMP.pdf
+      date: 2023-12-28
+    
+klimaticky_plan_rozbor:
+    type: Web
+    title: Klimatický plán hlavního města Prahy do roku 2030
+    author: Martin Bursík, Tomáš Voříšek, Jaroslav Klusák
+    url: 
+      value: https://portalzp.praha.eu/file/3553799/Klimaplan_CZ_2301_09_ONLINE.PDF
+      date: 2023-12-27
+      
+emise_analyza:
+    type: Web
+    title: AKTUALIZACE EMISNÍ A IMISNÍ ANALÝZY A SKLENÍKOVÝCH PLYNŮ NA ÚZEMÍ HLAVNÍHO MĚSTA PRAHY
+    author: Mgr. Jan Karel, Mgr. Ing. Tereza Englmaierová, Mgr. Robert Polák
+    url: 
+      value: https://portalzp.praha.eu/file/3325808/AKTUALIZACE_EMISNI_A_IMISNI_ANALYZY_A_SKLENIK_PLYNU_Praha_2017_2019_2020.pdf
+      date: 2023-12-26
+    
+parky:
+    type: Web
+    title: Nové lesy pro Prahu
+    author: prazska-priroda.cz
+    url: 
+      value: http://www.praha-priroda.cz/nase-projekty/nove-lesy-pro-prahu/
+      date: 2024-01-2
+      
+ekozony:
+    type: Web
+    title:  Ekologická zóna Praha 
+    author: Green-Zones.eu
+    url: 
+      value: https://www.green-zones.eu/cs/environmentalni-zony/cesko/praha
+      date: 2023-12-30
+            
+cr_bikes:
+    type: Web
+    title:  VÝZKUM CYKLISTICKÉ DOPRAVY 2021
+    author: MEDIAN s.r.o. (pro TSK hl. m. Prahy)
+    url: 
+      value: https://www.praha.eu/file/3402563/PREZENTACE_TSK_Praha_cyklisticka_doprava_zprava.pdf
+      date: 2023-12-29
+
+car_emissions:
+    type: Thesis
+    title: Emission and deposition of petrol engine exhaust Pb—I. Deposition of exhaust pb to plant and soil surfaces
+    author: 
+      - P. Little
+      - R.D. Wiffen
+
+eu_car_emission_increase:
+    type: article
+    title: Emission and deposition of petrol engine exhaust Pb—I. Deposition of exhaust pb to plant and soil surfaces
+    url:
+      value: https://www.europarl.europa.eu/news/cs/headlines/society/20190313STO31218/emise-co2-z-aut-fakta-a-cisla-infografika
+      date: 2023-12-31
+    author: Europa.eu
+
+cr_trees:
+  type: Web
+  title: Národní inventarizace lesů
+  url: https://nil.uhul.cz/
+  author: Ústav pro hospodářskou úpravu lesů; Brandýs nad Labem
+
+dpp_ekobus:
+  type: Web
+  title: Nové elektrobusy v ulicích Prahy
+  author: Dopravník podnik hlavního města Prahy
+  url: https://www.dpp.cz/spolecnost/aktuality/detail/66_1562-nove-elektrobusy-v-ulicich-prahy
+  
+tree_capacity:
+  type: Web
+  title: Trees help reduce the effects of climate change
+  author: Evropská agentura pro životní prostředí
+  url: 
+    value: https://www.arborday.org/trees/treefacts/
+    date: 2024-01-05
